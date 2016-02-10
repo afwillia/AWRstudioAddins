@@ -1,0 +1,9 @@
+Name: insertScriptHeader
+Description: Inserts script header (title, date, summary) at the cursor position.
+Binding: insertScriptHeader
+Interactive: false
+
+Name: insertRmdHeader
+Description: Inserts basic Rmd header (title, date, output) at the cursor position.
+Binding: insertRmdHeader
+Interactive: false
